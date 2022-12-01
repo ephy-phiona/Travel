@@ -240,7 +240,10 @@
                 }
             } else {
                 new Countdown(this, argumentsArray[0], argumentsArray[1]);
+                return ("CoubtDown")
             }
+
+    
         });
     };
 });
